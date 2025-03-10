@@ -34,6 +34,9 @@ The dashboard highlights the following key aspects:
 ### 5. **Health Parameters**
    - Metrics such as chest pain type, ECG results, and exercise-induced angina.
 
+![HeartAttack](https://github.com/user-attachments/assets/3ec166cb-0c18-49ac-bd24-ce2b6a6edd13)
+
+
 ## Key Findings
 - Individuals with higher screen time showed a notable correlation with heart attack occurrences.
 - Smoking, both regular and occasional, remains a significant risk factor.
